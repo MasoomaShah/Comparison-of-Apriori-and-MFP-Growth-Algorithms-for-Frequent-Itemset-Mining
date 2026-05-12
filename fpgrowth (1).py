@@ -7,7 +7,6 @@ without candidate generation. ACM SIGMOD Record, 29(2), 1–12.
 Optimized variant inspired by: "An optimized FP-growth algorithm for
 discovery of association rules" (the paper cited in the project).
 
-Upload your .dat file to Colab, then set DATASET_PATH and MIN_SUP below.
 """
 
 import time

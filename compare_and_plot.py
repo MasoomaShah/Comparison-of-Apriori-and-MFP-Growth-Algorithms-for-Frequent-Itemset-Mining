@@ -1,15 +1,4 @@
-"""
-compare_and_plot.py  —  Run Apriori vs FP-Growth and generate result figures
-DAA Semester Project CS-478
 
-Instructions (Google Colab):
-1. Upload trimmed_chess_1.dat and trimmed_connect_1.dat to Colab
-2. Run: !pip install matplotlib
-3. Run this file: !python compare_and_plot.py
-   OR paste into a Colab cell and run directly.
-
-The script saves 5 PNG figures you can download and put in your report.
-"""
 
 import time
 import tracemalloc

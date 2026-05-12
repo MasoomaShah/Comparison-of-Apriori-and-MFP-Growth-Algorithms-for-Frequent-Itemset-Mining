@@ -1,9 +1,4 @@
-"""
-apriori.py  —  Pure-Python Apriori for Frequent Itemset Mining
-DAA Semester Project CS-478
 
-Upload your .dat file to Colab, then set DATASET_PATH and MIN_SUP below.
-"""
 
 import time
 import tracemalloc
